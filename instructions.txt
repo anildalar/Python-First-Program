@@ -1,0 +1,35 @@
+Set the Environment Variables
+
+window + r = run utility
+
+
+python --version
+or
+py --version
+
+https://git-scm.com/
+
+
+Download
+1. PYthon
+	https://www.python.org/
+2. GIT SCM
+	https://git-scm.com/
+3. Visual Studio Code Editor (IDE) Free
+	https://code.visualstudio.com/download
+
+code .
+
+
+Functions
+	What are functions
+	
+	Functions are some reusable code	
+
+DRY = Dont repeat Yourself
+
+Lets Define a functions
+
+1. FUnction Defination is a one time process
+2. Function Calling is a many time process
+
