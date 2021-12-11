@@ -26,7 +26,7 @@ Functions
 	
 	Functions are some reusable code	
 
-DRY = Dont repeat Yourself
+DRY Principle = Dont repeat Yourself
 
 Lets Define a functions
 
@@ -37,3 +37,16 @@ Lets Define a functions
 Manage the source code online
 
 github.com
+
+Variable is like a container which can store some value
+
+Types of Values
+1. String ''/""/``/""" """ 
+	'Poonum'
+	"Poonum"
+	`Poonum`
+	"""Poonum"""
+
+
+
+
