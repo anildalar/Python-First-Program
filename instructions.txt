@@ -44,8 +44,35 @@ Types of Values
 1. String ''/""/``/""" """ 
 	'Poonum'
 	"Poonum"
-	`Poonum`
+	*`Poonum`
 	"""Poonum"""
+
++ is concatination operator
+
+string + integer
+
+string + string
+
+int --> string
+10000 ----> '10000'
+
+Type Casting
+To Change from one data type to another data type is called type casting
+
+String Interpolation
+
+
+OOPS
+Object Oriented Programming Lanaguage
+
+1.  Class ( Blue Print)
+2.  Object
+
+
+
+
+
+
 
 
 
